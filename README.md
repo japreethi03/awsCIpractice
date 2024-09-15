@@ -1,0 +1,2 @@
+# awsCIpractice
+AWS Continuous IntegrationPractice 
